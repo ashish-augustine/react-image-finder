@@ -89,7 +89,7 @@ function App() {
   return (
     <main>
       <section className="search">
-        <h2>SEARCH IMAGES</h2>
+        <h2>Search Images</h2>
         <form className="search-form">
           <input
             type="text"
