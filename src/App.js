@@ -91,7 +91,6 @@ function App() {
       <section className="search">
         <h3>SEARCH IMAGES</h3>
 
-        <p>Type the images to search here..</p>
         <form className="search-form">
           <input
             type="text"
